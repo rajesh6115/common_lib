@@ -48,7 +48,7 @@ maximun, median and average excution times.
  : MicroSecs = int()
 
 This function adds ``TimeLapse`` microseconds to the result of the BIF
-``now/0``.
+``erlang:timestamp/0``.
 
 
 = TIMER EXPORTS =
